@@ -4,6 +4,8 @@
 
 This project provides firmwares for ESP32 microcontrollers to enhance your closet with lighting. It supports [esp32](https://www.espressif.com/en/products/socs/esp32), [esp32s2](https://www.espressif.com/en/products/socs/esp32-s2) and [esp32s3](https://www.espressif.com/en/products/socs/esp32-s3) microcontroller boards.
 
+## Features
+
 ### Sensors
 
 - PIR
@@ -13,6 +15,9 @@ This project provides firmwares for ESP32 microcontrollers to enhance your close
 
 - LED-Stripe
 
+### OTA
+
+- Firmware update over github.com
 
 ## CHANGELOG
 
@@ -23,7 +28,6 @@ Release notes see [CHANGELOG.md](CHANGELOG.md).
 
 see [Releases](https://github.com/mcuw/esp-ghbuild-template/releases) on the right sidemenu.
 
----
 
 ## Disclaimer
 
